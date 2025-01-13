@@ -48,6 +48,3 @@ http:
 
 ### 3. Restart Traefik
 Restart Traefik to apply the new configuration:
-```bash
-docker-compose restart traefik
-```
