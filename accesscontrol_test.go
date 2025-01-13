@@ -1,4 +1,4 @@
-package accesscontrol_test
+package accesscontrol
 
 import (
 	"context"
