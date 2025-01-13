@@ -1,0 +1,14 @@
+displayName: VDM - AccessControl Plugin
+type: middleware
+iconPath: .assets/icon.png
+
+import: github.com/vidiemme/traefik-plugin
+
+summary: '[AccessControl] Restrict access based on IP whitelist or HTTP header'
+
+testData:
+  Whitelist:
+    - '192.168.1.1'
+    - '<your-whitelisted-ip>'
+  HeaderKey: '<your-header-key>'
+  HeaderValue: '<your-header-value>'
