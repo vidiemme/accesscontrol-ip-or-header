@@ -2,7 +2,7 @@ displayName: VDM - AccessControl Plugin
 type: middleware
 iconPath: .assets/icon.png
 
-import: github.com/vidiemme/traefik-plugin
+import: github.com/vidiemme/traefik-plugin/accesscontrol
 
 summary: '[AccessControl] Restrict access based on IP whitelist or HTTP header'
 
