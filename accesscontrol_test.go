@@ -1,4 +1,4 @@
-package accesscontrol
+package accesscontrol_ip_or_header
 
 import (
 	"context"

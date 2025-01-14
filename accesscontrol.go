@@ -1,5 +1,5 @@
-// Package accesscontrol provides an access control plugin for Traefik.
-package accesscontrol
+// Package accesscontrol_ip_or_header provides an access control plugin for Traefik.
+package accesscontrol_ip_or_header
 
 import (
 	"context"
